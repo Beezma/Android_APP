@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Comparador de Textos</string>
+    <string name="action_settings">Settings</string>
+    <string name="introduceText">Introducir Texto...</string>
+</resources>
